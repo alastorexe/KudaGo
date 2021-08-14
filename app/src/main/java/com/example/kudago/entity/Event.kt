@@ -7,7 +7,6 @@ data class Event(
     val startDate: Date?,
     val endDate: Date?,
     val title: String,
-    val placeId: Int,
     val description: String,
     val bodyText: String,
     val price: Double?,
