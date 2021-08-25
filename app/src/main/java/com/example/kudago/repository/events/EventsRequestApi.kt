@@ -1,6 +1,6 @@
-package com.example.kudago.api
+package com.example.kudago.repository.events
 
-import com.example.kudago.api.entity.EventsResponse
+import com.example.kudago.repository.events.entity.EventsResponse
 import io.reactivex.rxjava3.core.Observable
 import retrofit2.http.GET
 import retrofit2.http.Query

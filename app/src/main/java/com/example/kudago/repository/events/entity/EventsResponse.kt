@@ -1,4 +1,4 @@
-package com.example.kudago.api.entity
+package com.example.kudago.repository.events.entity
 
 import com.google.gson.annotations.SerializedName
 
